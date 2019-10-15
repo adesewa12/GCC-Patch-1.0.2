@@ -20,4 +20,4 @@ else:
     print('Total number of repayments: ',n)
     print('Final repayment: ',finalRepayment)
     print('Deposit: ',totalAmountSpent)
-    print('Final Answer:',finalAnswer) 
+    print('Final Answer:',finalAnswer)
